@@ -1,0 +1,778 @@
+#EXTM3U
+
+#EXTINF:0 group-title="LOCAL",1.1 AZTECA UNO MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56391.m3u
+
+#EXTINF:0 group-title="LOCAL",1.2 ADN NOTICIAS
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56381.m3u
+
+#EXTINF:0 group-title="LOCAL",2.1 LAS ESTRELLAS MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56398.m3u
+
+#EXTINF:0 group-title="LOCAL",3.1 IMAGEN TV MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:0 group-title="LOCAL",3.2 TELEFORMULA
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:0 group-title="LOCAL",3.3 MAUSSAN TV.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:0 group-title="LOCAL",4.1 NBC WOIA SAN ANTONIO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54417.m3u NBC WOIA SAN ANTONIO
+
+#EXTINF:0 group-title="LOCAL",4.2 CW WOIA SAN ANTONIO 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/288591.m3u CW WOIA SAN ANTONIO
+
+#EXTINF:0 group-title="LOCAL",5 XHGC MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a03i/index.m3u8
+
+#EXTINF:0 group-title="LOCAL",5.1 CBS KENS SAN ANTONIO 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54091.m3u CBS KENS SAN ANTONIO
+
+#EXTINF:0 group-title="LOCAL",6.1 MULTIMEDIOS MTY.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",6.2 MILENIO
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",6.3 CGTN EN ESPAÑOL
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=5aea1a732b0f181f09e2aee7869a898e&wsTime=1794518718
+
+#EXTINF:0 group-title="NOTICIAS",6.4 POPCORN CENTRAL
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+
+#EXTINF:0 group-title="LOCAL",7.1 AZTECA MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:0 group-title="LOCAL",7.2 A+ MX.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://181.78.50.191:7225/play/a09a
+
+#EXTINF:0 group-title="LOCAL",8.1 NBC LAREDO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54284.m3u 
+
+#EXTINF:0 group-title="LOCAL",8.2 ABC LAREDO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/288479.m3u 
+
+#EXTINF:0 group-title="LOCAL",8.3 TELEMUNDO LAREDO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/pa/event/yOGKmnJPQXatVm-MWleMtQ/stream/4495fc5a-37d4-4e3b-93d5-f0a2a14a9fdd:TUL/variant/9aeef6ce79ffa0e6b1cd9508ca509acd/bandwidth/1374000.m3u8
+
+#EXTINF:0 group-title="LOCAL",8.4 PBS KLRN SAN ANTONIO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/230144.m3u
+
+#EXTINF:0 group-title="LOCAL",9 NU9VE
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://38.65.175.25:8000/play/a0ql/index.m3u8
+
+#EXTINF:0 group-title="LOCAL",9.1 PBS KLRN SAN ANTONIO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/230144.m3u PBS KLRN SAN ANTONIO -
+
+#EXTINF:0 group-title="LOCAL",11.1 ONCE MX.
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL",12.1 ABC KSAT SAN ANTONIO 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/58306.m3u ABC KSAT SAN ANTONIO 
+
+#EXTINF:0 group-title="LOCAL",13.1 CBS LAREDO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/288804.m3u 
+
+#EXTINF:0 group-title="LOCAL",14.1 CANAL CATORCE
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:0 group-title="LOCAL",17.1 UNIMAS
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/315922
+
+#EXTINF:0 group-title="LOCAL",17.2 UNIVISION KWEX SAN ANTONIO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54766.m3u UNIVISION KWEX SAN ANTONIO
+
+#EXTINF:0 group-title="LOCAL",29.1 FOX KABB SAN ANTONIO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/58307.m3u FOX KABB SAN ANTONIO
+
+#EXTINF:0 group-title="LOCAL",31.1 FOX LAREDO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/288746.m3u 
+
+#EXTINF:0 group-title="LOCAL",60.1 TELEMUNDO KVDA SAN ANTONIO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/57431.m3u TELEMUNDO KVDA SAN ANTONIO TEXAS
+
+
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",AMC
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187212
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",AMC SERIES
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0qn/index.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",AXN HD
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.119.185.32:8000/play/a007/index.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",BUM TELEVISION
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://200.48.65.77:8000/play/a01f
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.119.185.32:8000/play/a019/index.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",DHE 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0er
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",ESTRELLA TV
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",FILM&ARTS
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.78.50.191:7225/play/a04s
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",FX 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56458.m3u 
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",GALAVISION
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56460.m3u 
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",TNT SERIES
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch201/index.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",TVE INTERNACIONAL
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",UNIVERSAL TV
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/a0di/index.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",UNIVERSO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56493.m3u 
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",USA 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56529.m3u
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",WARNER TV 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0od/index.m3u8
+
+
+
+#EXTINF:0group-title="Infantil",CARTOON NETWORK
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a083/index.m3u8
+
+#EXTINF:0group-title="Infantil",CARTOONITO
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56400.m3u
+
+#EXTINF:0group-title="Infantil",DIOS TE VE
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:0 group-title="INFANTIL",DISCOVERY KIDS
+#EXTGRP:INFANTIL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56423.m3u 
+
+#EXTINF:0group-title="Infantil",DISNEY CHANNEL
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:0group-title="Infantil",DISNEY JR.
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/DISNEY-JR/index.m3u8
+
+#EXTINF:0group-title="Infantil",FUNBOX
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://200.48.65.77:8000/play/a01a
+
+#EXTINF:0group-title="Infantil",LOS PITUFOS
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
+
+#EXTINF:0group-title="Infantil",NICKELODEON
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0ev
+
+#EXTINF:0 group-title="INFANTIL",NICK JR.
+#EXTGRP:INFANTIL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56496.m3u 
+
+#EXTINF:0group-title="Infantil",POPEYE
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+
+#EXTINF:0group-title="Infantil",TOONCAST
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch203/index.m3u8
+
+#EXTINF:0group-title="Infantil",ZKIDS
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://181.78.121.15:8000/play/a00a/index.m3u8
+
+
+
+#EXTINF:0 group-title="ANIMACIÓN",ADULT SWIN HD
+#EXTGRP:ANIMACIÓN
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0q8/index.m3u8
+
+#EXTINF:0 group-title="ANIMACIÓN",ANIMASH
+#EXTGRP:ANIMACIÓN
+#EXTVLCOPT:network-caching=1000
+http://38.7.195.44:8000/play/a0ce
+
+#EXTINF:0 group-title="ANIMACIÓN",BITME
+#EXTGRP:ANIMACIÓN
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+
+#EXTINF:0 group-title="ANIMACIÓN",MAX ANIME
+#EXTGRP:ANIMACIÓN
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+
+
+
+#EXTINF:0 group-title="PELICULAS",CINECANAL
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://181.119.185.32:8000/play/a010/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",CINEMAX
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0mk/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT CHANNEL
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT COMEDY
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT CLASSICS
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT DRAMA
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT EXTREME
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT FAMILY
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT LIFE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",ENT MOVIES
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="PELICULAS",GOLDEN
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0qv/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",GOLDEN PLUS
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56464.m3u 
+
+#EXTINF:0 group-title="PELICULAS",GOLDEN EDGE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0qu/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",GOLDEN PREMIERE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca023/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",HBO
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/187176
+
+#EXTINF:0 group-title="PELICULAS",HBO 2
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/187164
+
+#EXTINF:0 group-title="PELICULAS",HBO +
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca137/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",HBO FAMILY
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0em
+
+#EXTINF:0 group-title="PELICULAS",HBO POP
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/187179
+
+#EXTINF:0 group-title="PELICULAS",HBO XTREME
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56483.m3u 
+
+#EXTINF:0 group-title="PELICULAS",HBO LATINO
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/285390.m3u
+
+#EXTINF:0 group-title="PELICULAS",TNT
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187183
+
+#EXTINF:0 group-title="PELICULAS",SPACE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a03h/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",SONY CHANNEL
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a03f/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",SONY CINE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56406.m3u 
+
+#EXTINF:0 group-title="PELICULAS",SONY MOVIES
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/a0de/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",SPACE 
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca027/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",STAR CHANNEL
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",STUDIO UNIVERSAL
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a01o/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",UNIVERSAL CINEMA
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca145/index.m3u8
+
+#EXTINF:0 group-title="PELICULAS",UNIVERSAL PREMIERE
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0d5
+
+
+
+#EXTINF:0 group-title="DOCUMENTALES",A&E
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0edfhg/index.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",ANIMAL PLANET
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.221:8000/play/a06t/index.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY CHANNEL
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56418.m3u
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY HOME & HEALTH
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56421.m3u
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY FAMILY
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56420.m3u 
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY ID
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56422.m3u
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY SCIENCE
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56424.m3u
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY TURBO
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.119.185.32:8000/play/a01o/index.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY THEATER
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56425.m3u
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY TLC
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0mn/index.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",DISCOVERY WORLD
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56427.m3u 
+
+#EXTINF:0 group-title="DOCUMENTALES",HGTV
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0mp/index.m3u8?hls
+
+#EXTINF:0 group-title="DOCUMENTALES",HISTORY
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0m1/index.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",HISTORY 2
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/a0da/index.m3u8
+
+#EXTINF:0 group-title="Documentales",LOVE NATURE EN ESAPÑOL
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:0 group-title="DOCUMENTALES",NAT|GEO
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a03s
+
+#EXTINF:0 group-title="DOCUMENTALES",NAT|GEO MUNDO
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56491.m3u 
+
+#EXTINF:0 group-title="DOCUMENTALES",NATURALEZA SALVAJE
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+https://amg00376-amg00376c21-rlaxx-us-6950.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturenowrokumx-rlaxxus/playlist.m3u8?tag_id=121255&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0356&content_producer_name=AmagiConnect_AlliantContent_NaturalezaSalvaje&content_categories=IAB19-29%2CIAB16-5%2CIAB20&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
+#EXTINF:0 group-title="DOCUMENTALES",UNIVERSAL CRIME
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca143/index.m3u8
+
+
+
+#EXTINF:0 group-title="DEPORTES",AMERICAN NINJA WARRIOR
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+
+#EXTINF:0 group-title="DEPORTES",ESPN|MX
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56437.m3u 
+
+#EXTINF:0 group-title="Deportes",ESPN|2 MX
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+
+#EXTINF:0 group-title="DEPORTES",ESPN|3 MX
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56439.m3u 
+
+#EXTINF:0 group-title="Deportes",ESPN|4 MX
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|5
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|6
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|7
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|DEPORTES
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56440.m3u 
+
+#EXTINF:0 group-title="DEPORTES",ESPN|PREMIUM
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0ez
+
+#EXTINF:0 group-title="DEPORTES",ESPN US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71545
+
+#EXTINF:0 group-title="DEPORTES",ESPN US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|2 US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71546
+
+#EXTINF:0 group-title="DEPORTES",ESPN|2 US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN|U US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX ONE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/466668
+
+#EXTINF:0 group-title="DEPORTES",FOX
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://181.78.106.127:5000/play/a009/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX|TUBI
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?gdpr=0&device_id=95bab421-51ea-47f2-8d58-4d5d1f67e456&now_pos=0&playback_start_ts=1789753247&tb.sid=662fc6ea-92dc-4468-a90d-f78dfe20a3ed&ap.route=-9xRhGYWETE48I6ILZL-rc5IzW4&app_mode=DEFAULT_MODE&vpaid_enabled=false&content_id=400000122&ap.playback_start_ts=1789753247&platform=WEB&content_type=mp4&ap.sid=65dfc512-03fa-405f-a487-1918c0acd304&ap.pt=2&pub_id=21f12146acbab325bb229e55010b88c3&app_id=tubitv&ap.ss=305a2d2bd9643ffe0faf69301c9cfeab&language=es
+
+#EXTINF:0 group-title="DEPORTES",FOX DEPORTES
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/317018
+
+#EXTINF:0 group-title="DEPORTES",FS1
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54775.m3u 
+
+#EXTINF:0 group-title="DEPORTES",FS2
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54776.m3u 
+
+#EXTINF:0 group-title="DEPORTES",FOX|SPORTS NEWS US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+
+#EXTINF:0 group-title="DEPORTES",NACION DEPORTE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/235947.m3u
+
+#EXTINF:0 group-title="DEPORTES",NACION DEPORTE 2
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56455.m3u 
+
+#EXTINF:0 group-title="DEPORTES",NACION DEPORTE 3
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/235949.m3u 
+
+#EXTINF:0 group-title="DEPORTES",NACION DEPORTE PREMIUM
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://38.188.186.47:4000/play/a00c/index.m3u8
+
+#EXTINF:0 group-title="LOCAL",NBA SAN ANTONIO SPURS
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/55188.m3u
+
+#EXTINF:0 group-title="DEPORTES",NFL ESPN
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/325530.m3u
+
+#EXTINF:0 group-title="DEPORTES",NFL NBC
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/325531.m3u
+
+#EXTINF:0 group-title="DEPORTES",NFL TBN
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/325533.m3u
+
+#EXTINF:0 group-title="DEPORTES",NFL NETWORK
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/483823
+
+#EXTINF:0 group-title="DEPORTES",NFL REDZONE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/483825
+
+#EXTINF:0 group-title="DEPORTES",SKY SPORTS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/396653
+
+#EXTINF:0 group-title="DEPORTES",SKY SPORTS F1
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/275048.m3u
+
+#EXTINF:0 group-title="DEPORTES",SKY SPORTS NFL
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29988
+
+#EXTINF:0 group-title="DEPORTES",TUDN MX
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://38.65.175.25:8000/play/a0qn/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TUDN USA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/56549.m3u 
+
+#EXTINF:0 group-title="DEPORTES",VOLLEYBALL
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
