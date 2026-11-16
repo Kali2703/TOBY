@@ -15,6 +15,11 @@ http://hostengine.live/live/TanekaG/63937363/56381.m3u
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/56398.m3u
 
+#EXTINF:0 group-title="LOCAL",2.2 FORO TV.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
 #EXTINF:0 group-title="LOCAL",3.1 IMAGEN TV MX.
 #EXTGRP:LOCAL
 #EXTVLCOPT:network-caching=1000
@@ -24,6 +29,11 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTGRP:LOCAL
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:0 group-title="LOCAL",3.3 MAUSSAN TV.
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:0 group-title="LOCAL",4.1 NBC WOIA SAN ANTONIO
 #EXTGRP:ENTRETENIMIENTO
@@ -35,10 +45,15 @@ http://hostengine.live/live/TanekaG/63937363/54417.m3u NBC WOIA SAN ANTONIO
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/288591.m3u CW WOIA SAN ANTONIO
 
-#EXTINF:0 group-title="LOCAL",5.1 XHGC MX.
+#EXTINF:0 group-title="LOCAL",5 XHGC MX.
 #EXTGRP:LOCAL
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a03i/index.m3u8
+
+#EXTINF:0 group-title="LOCAL",5.1 CBS KENS SAN ANTONIO 
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/54091.m3u CBS KENS SAN ANTONIO
 
 #EXTINF:0 group-title="LOCAL",6.1 MULTIMEDIOS MTY.
 #EXTGRP:LOCAL
@@ -53,7 +68,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 #EXTINF:0 group-title="NOTICIAS",6.3 CGTN EN ESPAÑOL
 #EXTGRP:NOTICIAS
 #EXTVLCOPT:network-caching=1000
-https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=a0de6bf67f1fbf5c9d19536e7da9cd73&wsTime=1794783880
+https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=5aea1a732b0f181f09e2aee7869a898e&wsTime=1794518718
 
 #EXTINF:0 group-title="NOTICIAS",6.4 POPCORN CENTRAL
 #EXTGRP:NOTICIAS
@@ -79,6 +94,16 @@ http://hostengine.live/live/TanekaG/63937363/54284.m3u
 #EXTGRP:LOCAL
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/288479.m3u 
+
+#EXTINF:0 group-title="LOCAL",8.3 PBS KLRN SAN ANTONIO
+#EXTGRP:LOCAL
+#EXTVLCOPT:network-caching=1000
+http://hostengine.live/live/TanekaG/63937363/230144.m3u
+
+#EXTINF:0 group-title="LOCAL",9 NU9VE
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+http://38.65.175.25:8000/play/a0ql/index.m3u8
 
 #EXTINF:0 group-title="LOCAL",9.1 PBS KLRN SAN ANTONIO
 #EXTGRP:ENTRETENIMIENTO
