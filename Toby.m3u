@@ -30,11 +30,6 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
-#EXTINF:0 group-title="LOCAL",3.3 MAUSSAN TV.
-#EXTGRP:LOCAL
-#EXTVLCOPT:network-caching=1000
-
-
 #EXTINF:0 group-title="LOCAL",4.1 NBC WOIA SAN ANTONIO
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
@@ -95,15 +90,10 @@ http://hostengine.live/live/TanekaG/63937363/54284.m3u
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/288479.m3u 
 
-#EXTINF:0 group-title="LOCAL",8.3 PBS KLRN SAN ANTONIO
-#EXTGRP:LOCAL
-#EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/230144.m3u
-
 #EXTINF:0 group-title="LOCAL",9 NU9VE
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
-http://38.65.175.25:8000/play/a0ql/index.m3u8
+https://velive.lat:443/laura/12345678/21482
 
 #EXTINF:0 group-title="LOCAL",9.1 PBS KLRN SAN ANTONIO
 #EXTGRP:ENTRETENIMIENTO
@@ -172,11 +162,6 @@ http://181.224.255.210:8001/play/a0qn/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.119.185.32:8000/play/a007/index.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",BUM TELEVISION
-#EXTGRP:ENTRETENIMIENTO
-#EXTVLCOPT:network-caching=1000
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
 #EXTINF:0 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
@@ -200,7 +185,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estr
 #EXTINF:0 group-title="ENTRETENIMIENTO",FILM&ARTS
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
-http://181.78.50.191:7225/play/a04s
+http://181.224.255.210:8001/play/a0ql/index.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",FX 
 #EXTGRP:ENTRETENIMIENTO
@@ -247,12 +232,12 @@ http://181.224.255.210:8001/play/a0od/index.m3u8
 #EXTINF:0group-title="Infantil",CARTOON NETWORK
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a083/index.m3u8
+http://hostengine.live/live/TanekaG/63937363/56400.m3u
 
 #EXTINF:0group-title="Infantil",CARTOONITO
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/56400.m3u
+http://181.78.12.119:16123/play/a0cq/index.m3u8
 
 #EXTINF:0group-title="Infantil",DIOS TE VE
 #EXTGRP:Infantil
@@ -406,7 +391,7 @@ http://200.115.120.1:8000/play/ca023/index.m3u8
 #EXTINF:0 group-title="PELICULAS",HBO
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-https://zonacero.lat:443/laura/12345678/187176
+http://181.119.185.32:8000/play/a00o/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",HBO 2
 #EXTGRP:PELICULAS
@@ -433,25 +418,15 @@ https://zonacero.lat:443/laura/12345678/187179
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/56483.m3u 
 
-#EXTINF:0 group-title="PELICULAS",HBO LATINO
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/285390.m3u
-
 #EXTINF:0 group-title="PELICULAS",TNT
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/187183
 
-#EXTINF:0 group-title="PELICULAS",SPACE
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://45.170.130.224:8000/play/a03h/index.m3u8
-
 #EXTINF:0 group-title="PELICULAS",SONY CHANNEL
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://45.170.130.224:8000/play/a03f/index.m3u8
+http://181.224.255.210:8001/play/a0oc/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",SONY CINE
 #EXTGRP:PELICULAS
@@ -476,17 +451,12 @@ http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:0 group-title="PELICULAS",STUDIO UNIVERSAL
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://45.170.130.224:8000/play/a01o/index.m3u8
+http://181.224.255.210:8001/play/a0sc/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",UNIVERSAL CINEMA
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca145/index.m3u8
-
-#EXTINF:0 group-title="PELICULAS",UNIVERSAL PREMIERE
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://38.137.192.250:8000/play/a0d5
 
 
 
@@ -508,7 +478,7 @@ http://hostengine.live/live/TanekaG/63937363/56418.m3u
 #EXTINF:0 group-title="DOCUMENTALES",DISCOVERY HOME & HEALTH
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/56421.m3u
+http://190.60.39.221:8000/play/a07r/index.m3u8
 
 #EXTINF:0 group-title="DOCUMENTALES",DISCOVERY FAMILY
 #EXTGRP:ENTRETENIMIENTO
@@ -612,21 +582,6 @@ http://hostengine.live/live/TanekaG/63937363/56439.m3u
 #EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN|5
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-
-#EXTINF:0 group-title="DEPORTES",ESPN|6
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-
-#EXTINF:0 group-title="DEPORTES",ESPN|7
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-
 #EXTINF:0 group-title="DEPORTES",ESPN|DEPORTES
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
@@ -640,17 +595,7 @@ http://38.137.192.250:8000/play/a0ez
 #EXTINF:0 group-title="DEPORTES",ESPN US
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
-http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71545
-
-#EXTINF:0 group-title="DEPORTES",ESPN US
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
-#EXTINF:0 group-title="DEPORTES",ESPN|2 US
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71546
 
 #EXTINF:0 group-title="DEPORTES",ESPN|2 US
 #EXTGRP:DEPORTES
@@ -692,31 +637,6 @@ http://hostengine.live/live/TanekaG/63937363/54775.m3u
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/54776.m3u 
 
-#EXTINF:0 group-title="DEPORTES",FOX|SPORTS NEWS US
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-
-#EXTINF:0 group-title="DEPORTES",NACION DEPORTE
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/235947.m3u
-
-#EXTINF:0 group-title="DEPORTES",NACION DEPORTE 2
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/56455.m3u 
-
-#EXTINF:0 group-title="DEPORTES",NACION DEPORTE 3
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/235949.m3u 
-
-#EXTINF:0 group-title="DEPORTES",NACION DEPORTE PREMIUM
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://38.188.186.47:4000/play/a00c/index.m3u8
-
 #EXTINF:0 group-title="LOCAL",NBA SAN ANTONIO SPURS
 #EXTGRP:LOCAL
 #EXTVLCOPT:network-caching=1000
@@ -737,10 +657,10 @@ http://hostengine.live/live/TanekaG/63937363/325531.m3u
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/325533.m3u
 
-#EXTINF:0 group-title="DEPORTES",NFL NETWORK
+#EXTINF:0 group-title="DEPORTES",NFL CHANNEL
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
-https://zonacero.lat:443/laura/12345678/483823
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
 #EXTINF:0 group-title="DEPORTES",NFL REDZONE
 #EXTGRP:DEPORTES
@@ -771,8 +691,3 @@ http://38.65.175.25:8000/play/a0qn/index.m3u8
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/56549.m3u 
-
-#EXTINF:0 group-title="DEPORTES",VOLLEYBALL
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
