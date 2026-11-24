@@ -242,7 +242,7 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:0 group-title="INFANTIL",DISCOVERY KIDS
 #EXTGRP:INFANTIL
 #EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/56423.m3u 
+https://zonacero.lat:443/laura/12345678/1820 
 
 #EXTINF:0group-title="INFANTIL",DISNEY CHANNEL
 #EXTGRP:INFANTIL
@@ -267,7 +267,7 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 #EXTINF:0group-title="INFANTIL",NICKELODEON
 #EXTGRP:INFANTIL
 #EXTVLCOPT:network-caching=1000
-http://38.137.192.250:8000/play/a0ev
+https://zonacero.lat:443/laura/12345678/1830
 
 #EXTINF:0 group-title="INFANTIL",NICK JR.
 #EXTGRP:INFANTIL
@@ -421,12 +421,12 @@ http://hostengine.live/live/TanekaG/63937363/285390.m3u
 #EXTINF:0 group-title="PELICULAS",TNT
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-https://velive.lat:443/laura/12345678/187183
+http://45.170.130.224:8000/play/a012/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",SPACE
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://45.170.130.224:8000/play/a03h/index.m3u8
+http://181.224.255.210:8001/play/a0ma/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",SONY CHANNEL
 #EXTGRP:PELICULAS
@@ -436,7 +436,7 @@ http://45.170.130.224:8000/play/a03f/index.m3u8
 #EXTINF:0 group-title="PELICULAS",SONY CINE
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://hostengine.live/live/TanekaG/63937363/56406.m3u 
+https://zonacero.lat:443/laura/12345678/187198 
 
 #EXTINF:0 group-title="PELICULAS",SONY MOVIES
 #EXTGRP:PELICULAS
@@ -446,7 +446,7 @@ http://181.78.12.119:16123/play/a0de/index.m3u8
 #EXTINF:0 group-title="PELICULAS",SPACE 
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://200.115.120.1:8000/play/ca027/index.m3u8
+
 
 #EXTINF:0 group-title="PELICULAS",STAR CHANNEL
 #EXTGRP:ENTRETENIMIENTO
@@ -640,6 +640,11 @@ http://hostengine.live/live/TanekaG/63937363/55063.m3u
 #EXTINF:0 group-title="DEPORTES",FOX ONE
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/466665
+
+#EXTINF:0 group-title="DEPORTES",FOX ONE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
 https://zonacero.lat:443/laura/12345678/466668
 
 #EXTINF:0 group-title="DEPORTES",FOX
@@ -655,7 +660,7 @@ https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?gdpr=0&de
 #EXTINF:0 group-title="DEPORTES",FOX DEPORTES
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
-https://zonacero.lat:443/laura/12345678/317018
+https://zonacero.lat:443/laura/12345678/316070
 
 #EXTINF:0 group-title="DEPORTES",FS1
 #EXTGRP:DEPORTES
@@ -732,6 +737,11 @@ http://hostengine.live/live/TanekaG/63937363/55125.m3u
 #EXTVLCOPT:network-caching=1000
 https://zonacero.lat:443/laura/12345678/396653
 
+#EXTINF:0 group-title="DEPORTES",SKY|SPORTS LALIGA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/396653
+
 #EXTINF:0 group-title="DEPORTES",SKY|SPORTS FOOTBALL
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
@@ -775,9 +785,16 @@ http://hostengine.live/live/TanekaG/63937363/53984.m3u
 #EXTINF:0 group-title="DEPORTES",TUDN MX
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
-http://38.65.175.25:8000/play/a0qn/index.m3u8
+http://hostengine.live/live/TanekaG/63937363/326736.m3u
 
 #EXTINF:0 group-title="DEPORTES",TUDN USA
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://hostengine.live/live/TanekaG/63937363/56549.m3u 
+
+
+
+#EXTINF:0 group-title="MUSICA",EXA TV
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://zonacero.lat:443/laura/12345678/462020
